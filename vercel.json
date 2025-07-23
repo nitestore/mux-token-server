@@ -1,9 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/getMuxToken",
-      "dest": "/api/getMuxToken.js"
-    }
-  ]
+  "version": 2
 }
